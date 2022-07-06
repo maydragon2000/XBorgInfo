@@ -50,7 +50,7 @@ const Team = () => {
                         </div>
                         <h3>Longguo Jin</h3>
                         <span>Co-Founder and CTO</span>
-                        <a href="https://www.linkedin.com/in/ash-harris-25911426/" className='s-link' target='_blank' rel="noopener noreferrer"><img src={linkedin} alt="Twitter" /></a>
+                        <a href="https://github.com/maydragon2000/" className='s-link' target='_blank' rel="noopener noreferrer"><img src={linkedin} alt="Twitter" /></a>
                     </div>
                     <div className="member">
                         <div className="member-img">
